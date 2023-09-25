@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-Contact information
+Contact information!
