@@ -2,4 +2,4 @@
 title: "Contact"
 ---
 
-About this site
+Contact information
